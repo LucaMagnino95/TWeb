@@ -1,0 +1,74 @@
+body{
+	background-image: url("backgroundp.jpg"); 
+	background-attachment: fixed;
+	width: 1024px;
+}
+
+.int{
+	font-style: "Lucida Sans Unicode", Helvetica, Arial, Sans-Serif;
+	color: rgb(164,164,0);
+	background-color: rgb(240,240,240);
+	text-decoration: underline;
+}
+
+.text{
+	font-style: Georgia, Garamond, Verdana;
+	color: rgb(64,64,64);
+	background-color: white;
+	font-size: 11pt;
+	text-decoration: none;
+}
+
+.list_out{
+	font-style: Georgia, Garamond, Verdana;
+	color: rgb(64,64,64);
+	background-color: white;
+	font-size: 11pt;
+	text-decoration: none;
+	list-style-type: disc;
+}
+
+.list_in{
+	list-style-type: square;
+}
+
+.list_num{
+	font-style: Georgia, Garamond, Verdana;
+	color: rgb(64,64,64);
+	background-color: white;
+	font-size: 11pt;
+	text-decoration: none;	
+}
+
+.picture{
+	text-align: right;
+}
+
+footer{
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: rgb(164,164,0);
+}
+
+body{
+	background-color: white;
+}
+
+h1{
+	text-align: center;
+	color: rgb(164,164,0);
+	font-size: 22pt;
+	text-decoration: bold;
+	letter-spacing: 0.25em;
+	border-radius: 8px;
+}
+
+h2{
+	display: inline-block;
+	font-size: 18pt;
+	letter-spacing: 0.25em;
+	border-radius: 6px;
+}
